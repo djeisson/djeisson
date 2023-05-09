@@ -17,13 +17,13 @@
 </dvi>
 <h1>Projetos finalizados.</h1>
 <div>
-  <a href="djeisson.github.io/cordel-projeto/" target="_blank">Cordel page</a>
+  <a href="https://djeisson.github.io/cordel-projeto/" target="_blank">Cordel page</a>
 </dvi>
 <div>
-  <a href="djeisson.github.io/relogio/" target="_blank">Relógio digital</a>
+  <a href="https://djeisson.github.io/relogio/" target="_blank">Relógio digital</a>
 </dvi>
 <div>
-  <a href="djeisson.github.io/formulario/" target="_blank">formulario</a>
+  <a href="https://djeisson.github.io/formulario/" target="_blank">formulario</a>
 </dvi>
 
 
