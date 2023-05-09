@@ -5,7 +5,7 @@
 -Estudante de Analise e Desenvolvimento de Sistemas.
 
 <div>
-  <a href="in/djeisson-schneider-39b2481a3" target="_blank">linkedin</a>
+  <a href="https://www.linkedin.com/in/djeisson-schneider-39b2481a3" target="_blank">linkedin</a>
 </div>
 <br>
 <div>
