@@ -11,7 +11,21 @@
 <div>
   <a href="https://www.instagram.com/djeisson_sch/" target="_blank">Instagram</a>
 </div>
-<div>
-  <h1>Projeto em andamento</h1>
+<h1>Projeto em andamento.</h1>
+<div>  
   <a href="djeisson.github.io/advogado/" target="_blank">Pagina de Advocacia</a>
 </dvi>
+<h1>Projetos finalizados.</h1>
+<div>
+  <a href="djeisson.github.io/cordel-projeto/" target="_blank">Cordel page</a>
+</dvi>
+<div>
+  <a href="djeisson.github.io/relogio/" target="_blank">Relógio digital</a>
+</dvi>
+<div>
+  <a href="djeisson.github.io/formulario/" target="_blank">formulario</a>
+</dvi>
+
+
+
+
